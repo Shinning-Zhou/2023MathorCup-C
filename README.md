@@ -1,0 +1,2 @@
+# 2023MathorCup-C
+2023年MathorCup数学建模比赛C题论文代码思路分享
